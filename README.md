@@ -28,8 +28,20 @@ Criar uma base de dados simulada para reproduzir um cenário real de vendas, per
 - Definição das chaves primárias e relacionamentos
 - Inserção dos Dados manualmente e via script
 
-## 2️⃣ Geração dos Dados (Python)
-- Utilização do Pandas
+## 2️⃣ Geração dos Dados de vendas (Python)
+- Utilização de dicionários e listas para atribuir valor a tabela
+- Bibliotecas Random e Datetime para os dados não se repetir e nem ficar de forma sequencial, geração das datas
+- Pandas para estruturar como Tabela
+
+---
+## 3️⃣ Construção do Dashboard
+- Integração da base SQL com o Power BI
+- Criação das principais visualizações:
+  - Faturamento por Mês
+  - Produtos mais vendido
+  - Desempenho por Vendedores
+  - Indicadores por região
+
 <img width="1299" height="770" alt="Captura de tela 2025-12-02 230731" src="https://github.com/user-attachments/assets/2baba858-a2a7-4617-b665-f49c6dfd9ee2" />
 ---
 <img width="1298" height="766" alt="Captura de tela 2025-12-02 230759" src="https://github.com/user-attachments/assets/38163a56-cc5c-4a12-baa6-85bd604658fb" />
