@@ -66,4 +66,4 @@ Além de desenvolver habilidades práticas com SQL, Python e Power BI, também r
 ---
 
 # 📩 Contato
-[Linkedin](www.linkedin.com/in/gushtavoroberto) | 📧 almeida.gustavo0420@gmail.com 
+[Linkedin](https://www.linkedin.com/in/gushtavoroberto/) | 📧 almeida.gustavo0420@gmail.com 
