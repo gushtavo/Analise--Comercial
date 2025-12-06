@@ -43,6 +43,9 @@ Criar uma base de dados simulada para reproduzir um cenário real de vendas, per
   - Indicadores por região
 ---
 # 📈 Dashboard
+
+## 📊 [Power BI online](https://app.powerbi.com/view?r=eyJrIjoiMzM5NTdjMmEtYTY1YS00NTgwLWE3YzctYWEyOGIzMGVkNzQxIiwidCI6IjM2Yzc4ZDUwLThlY2UtNDNmYS1iMThlLTFlOWE5ZTNjNDI1ZCJ9)
+
 <img width="1299" height="770" alt="Captura de tela 2025-12-02 230731" src="https://github.com/user-attachments/assets/2baba858-a2a7-4617-b665-f49c6dfd9ee2" />
 
 ---
